@@ -1,4 +1,4 @@
-application: ga-beacon
+application: ga-beacon-u6
 version: 18
 runtime: go
 api_version: go1
